@@ -46,8 +46,10 @@ This **Robot_Avoider-ObjectFollower** project combines both object-following and
 Robot_Avoider-ObjectFollower/
 ├── Hardware/
 │   ├── PCB/ 
-|   └──sch
-|   └──brd
 │   ├── Case/
-|   └──cdr
+|
+├── Firmware/
+|   ├──ROBOT_Avoider_3Sensor_Ultrasonic
+|   ├──ROBOT_ObjectFollower_3Sensor_Ultrasonic
+└── ///
 
