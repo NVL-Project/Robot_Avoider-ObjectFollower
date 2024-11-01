@@ -49,7 +49,7 @@ Robot_Avoider-ObjectFollower/
 │   ├── Case/
 |
 ├── Firmware/
-|   ├──ROBOT_Avoider_3Sensor_Ultrasonic
-|   ├──ROBOT_ObjectFollower_3Sensor_Ultrasonic
-└── ///
+|   ├──ROBOT_Avoider_3Sensor_Ultrasonic/
+|   ├──ROBOT_ObjectFollower_3Sensor_Ultrasonic/
+└── |||||||||
 
