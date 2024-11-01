@@ -7,11 +7,7 @@ This project consists of a design that I have developed to make a robot follow a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Hardware Design](#hardware-design)
 - [Folder Structure](#folder-structure)
-- [Contribution](#contribution)
-- [License](#license)
 
 ## Project Overview
 
