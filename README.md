@@ -44,19 +44,10 @@ This **Robot_Avoider-ObjectFollower** project combines both object-following and
 ## Folder Structure
 ```plaintext
 Robot_Avoider-ObjectFollower/
-├── docs/                          # Dokumentasi proyek
-│   └── panduan.md                 # Panduan penggunaan
-├── hardware/                      # Desain perangkat keras
-│   ├── NamaDesain.sch             # File skematik
-│   ├── NamaDesain.brd             # File layout PCB
-├── src/                           # Kode sumber program
-│   ├── NamaProyek.ino             # Kode utama untuk Arduino
-│   └── utils/                     # Folder untuk modul tambahan
-│       └── helper.ino             # Kode pendukung
-├── test/                          # File pengujian
-│   └── test_case.ino              # Contoh pengujian
-├── assets/                        # File gambar, ikon, dan lain-lain
-│   └── preview.jpg                # Gambar pratinjau
-├── README.md                      # Dokumentasi utama proyek
-└── LICENSE                        # File lisensi proyek
+├── Hardware/
+│   ├── PCB/ 
+|   └──sch
+|   └──brd
+│   ├── Case/
+|   └──cdr
 
